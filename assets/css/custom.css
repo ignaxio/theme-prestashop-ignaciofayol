@@ -1,0 +1,38 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+
+/*.product-miniature .product-description {
+  padding: 1.25rem;
+  
+}
+
+#products .product-miniature .thumbnail-container {
+  height: 318px;
+}*/
+
+
+#custom-text {
+  text-align: left;  
+}
+
+#custom-text h1 {
+  font-size: 2.3rem;
+  text-align: center;
+  padding-bottom: 30px; 
+}
+
+#custom-text h2 {
+  font-size: 1.7rem;
+  padding-bottom: 15px; 
+}
+
+#custom-text h3 {
+  font-size: 1rem;
+}
+
+#custom-text p {
+  font-size: 0.9rem;
+}
